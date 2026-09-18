@@ -1,6 +1,6 @@
 # Radar Construcción Industrializada — scripts de datos
 
-Scripts con los que [Radar Construcción Industrializada](https://radar-construccion-industrializados.netlify.app)
+Scripts con los que [Radar Construcción Industrializada](https://radarconstruccionindustrializada.cl)
 (Tercera Letra) genera sus series a partir de registros oficiales. Cada script declara en su cabecera la fuente, la leyenda y los supuestos. Las salidas
 son JSON que el sitio lee tal cual.
 
